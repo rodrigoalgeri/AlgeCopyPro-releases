@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0-beta.2",
-  "notes": "Atualizações pelo GitHub: aviso de nova versão, instalação assinada e salvamento do histórico e das configurações antes de atualizar.",
-  "pub_date": "2026-10-07T21:09:25.784Z",
+  "version": "0.2.0-beta.3",
+  "notes": "Os itens fixados agora mostram uma prévia do conteúdo copiado abaixo do nome, tanto no painel principal quanto na janela flutuante. Textos longos ficam em uma linha com reticências, mantendo o conteúdo completo para colar.",
+  "pub_date": "2026-10-07T21:42:19.430Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbi9iVkRHUWZPSTlTUk9RZlpxVzZhUWorSTJsaU53OEpNRmZOcko2NDVtQmhHSU5tUjhtVFBUQjMxRDZLcmVXQmx1ZW5aMkUvVnl1WS9GMXp5VXZ0L0RYQWg5bnNPWVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDA3MzY0CWZpbGU6QWxnZUNvcHkgUHJvXzAuMi4wLWJldGEuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjAtYmV0YS4yCkdVRkIvMzBzc1VhMG5QSXhwNXRER1ZBY0Ezcm1iT0FidndraWx2Z1pESHUvOTZ4MDdsNFNsNUtIS3JTNUYzT0R2THJTNzR0c0E1aEdlY1V4WDR1ekN3PT0K",
-      "url": "https://github.com/rodrigoalgeri/AlgeCopyPro-releases/releases/download/v0.2.0-beta.2/AlgeCopyPro-0.2.0-beta.2-Windows-x64-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbi9iVkRHUWZPSXdzN2ZzOCtDeXFQS2NMVloyazdPVnZORkxFMi9Mbk8vQ2lDc2JTbFh6aCt1SkJ5ODFTNjZPRVc1bTA3K1dMRHNBNklzRjZKVkxZcWJzM1Z5RjRmN0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDA5MzI1CWZpbGU6QWxnZUNvcHkgUHJvXzAuMi4wLWJldGEuM194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjAtYmV0YS4zCkJaY1dYUzRjV0JTVHVaVmRoTVlWdjNWa3JmTnN1NjdPL0I1cVowYm92cHp5ZVNBT3BGRCt6L1FiL1hOdEFlbThheGc2L2xPaHYxL0xXME1mYUNZaUJRPT0K",
+      "url": "https://github.com/rodrigoalgeri/AlgeCopyPro-releases/releases/download/v0.2.0-beta.3/AlgeCopyPro-0.2.0-beta.3-Windows-x64-Setup.exe"
     }
   }
 }
