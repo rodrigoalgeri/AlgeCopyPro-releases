@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0-rc.2",
-  "notes": "Candidata de lançamento com categorias recolhíveis para organizar os Fixados dentro de cada grupo. Crie, renomeie, reordene e exclua categorias; atribua cada item a um grupo e categoria pelo menu Organizar. Grupos, categorias e associações permanecem salvos após reiniciar o aplicativo.",
-  "pub_date": "2026-10-08T14:23:28.616Z",
+  "version": "1.0.0-rc.4",
+  "notes": "Os Fixados agora podem ser reordenados pelo menu de três pontos de cada item. Use Mover para cima ou Mover para baixo; a ordem é salva junto com o histórico e continua disponível após reiniciar o aplicativo.",
+  "pub_date": "2026-10-08T15:30:12.260Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbi9iVkRHUWZPSS9DL2lwTGZTSWxBK3FUOEFyOTRXOEV4Q3dsWFRqSGNNbFhnL3dFdnU0dHVzM09IYmNabWU4Nko2YXcrMCtsUFViek9zbW83Sk9Ed2FKZzBLUlhPZ1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDY5NDA3CWZpbGU6QWxnZUNvcHkgUHJvXzEuMC4wLXJjLjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC4wLXJjLjIKcUU4aHAyTWFBWXNleTQ4OUJLd3RhUUlpRTc2Q3ZUNDMwYUlOU0hsRmM1dExoN2FqYWlmTlAvWlpnREs2L3lxYmNxN2I0QnFiMklLb29OVTFyZmFoQlE9PQo=",
-      "url": "https://github.com/rodrigoalgeri/AlgeCopyPro-releases/releases/download/v1.0.0-rc.2/AlgeCopyPro-1.0.0-rc.2-Windows-x64-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbi9iVkRHUWZPSTBCR1YrRnU3RWhGRjRBVGNsZmw4Q21ZMk1NYmNLZHFjOGdRV0xSL0dEb0dsc0hXd0RMd2RWUVBVSWJlcXRWTlhEQS9wekY0QVRmN2VvRFNIc0ZDZkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDczNDEwCWZpbGU6QWxnZUNvcHkgUHJvXzEuMC4wLXJjLjRfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC4wLXJjLjQKSW1zY0tYb2hhak9aOFRNWjVlTHBCcCtzTnB5eU04bGJzWFE5RVFDSjQ1T0lwdldjbXd6b0NDR2xDNUpITzNnZERTeURtTWZGQm9UcDFIa2dNV3E0Q0E9PQo=",
+      "url": "https://github.com/rodrigoalgeri/AlgeCopyPro-releases/releases/download/v1.0.0-rc.4/AlgeCopyPro-1.0.0-rc.4-Windows-x64-Setup.exe"
     }
   }
 }
