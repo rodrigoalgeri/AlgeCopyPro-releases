@@ -1,11 +1,11 @@
 {
-  "version": "1.0.1",
-  "notes": "A janela flutuante lembra a última aba usada: Recentes ou Fixados, inclusive após reiniciar o aplicativo. Corrige a inicialização automática ao entrar no Windows e adiciona o toggle Iniciar com o Windows em Configurações → Comportamento. A preferência de inicialização é preservada nas atualizações.",
-  "pub_date": "2026-10-08T18:52:50.651Z",
+  "version": "1.1.0",
+  "notes": "Seu histórico no ritmo do teclado: chegou o Modo Vim. Ative em Configurações → Comportamento e navegue nos dois painéis com j/k (itens), h/l (grupos dos Fixados), gg/G (primeiro/último), / (pesquisa), Enter (colar), Esc (sair da busca/fechar) e ? (ajuda). Desativado por padrão. A digitação normal na pesquisa e nas edições é preservada; o indicador Vim · ? abre a ajuda. Seus históricos, grupos, categorias e preferências continuam salvos.",
+  "pub_date": "2026-10-08T20:34:53.807Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbi9iVkRHUWZPSTZ6YmQxc1BGc3ZHZ29DZjdsc1J2SmhDRzhRNHZhVDVqalB2RjVrRzJXQlpDaEJ3RzEvTENiRGY3emVST2kzbi8wbkw2bzJTTGFFU3lNQlMwSnAwWmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDg1NTY5CWZpbGU6QWxnZUNvcHkgUHJvXzEuMC4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjAuMQp6NlloZEJiQnlWODNPaDZDb1RIdngxcnB0Si9nR1o3dWh1Z2U0OU5TTHBxeWh4bUROQVdUSjJZQjYrZi9FLzVvU3gxZnpld0xyL2NuSnROb2hKdXNCUT09Cg==",
-      "url": "https://github.com/rodrigoalgeri/AlgeCopyPro-releases/releases/download/v1.0.1/AlgeCopyPro-1.0.1-Windows-x64-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbi9iVkRHUWZPSXp4MDhhSVJ0OEp4U3NCUk9TMDZWVmZZSGZQaDRjZVJ6S2dtOTJPT0JuWVRocFRTam56Rjk5cGtZWlRscnFoVW1ZT1drVVhWU1JLZUIxcjZDMXlzREFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDkxNjkzCWZpbGU6QWxnZUNvcHkgUHJvXzEuMS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjEuMApNbU1hZVQyWkUyNE5aOG1rVkFJZVJuT3hqV215a2ZWYm5GZE9zcStTaTZlVnlGdEM2NEV3M0c2dW0xRVRDbkpyV09uYXRROHZmY1BkS2d6TGpHZmpCQT09Cg==",
+      "url": "https://github.com/rodrigoalgeri/AlgeCopyPro-releases/releases/download/v1.1.0/AlgeCopyPro-1.1.0-Windows-x64-Setup.exe"
     }
   }
 }
