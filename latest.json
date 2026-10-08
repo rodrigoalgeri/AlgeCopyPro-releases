@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0-rc.5",
-  "notes": "Corrigimos a organização dos Fixados: cada item aparece somente no grupo e na categoria em que foi colocado. A aba Todos continua reunindo todos os fixados.",
-  "pub_date": "2026-10-08T15:50:56.865Z",
+  "version": "1.0.0-rc.6",
+  "notes": "Agora você pode segurar e arrastar as categorias dentro dos Fixados para mudar a ordem. A nova organização é salva e continua após reiniciar o aplicativo.",
+  "pub_date": "2026-10-08T16:10:56.655Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbi9iVkRHUWZPSTE0RjBjSG5jdmh1cVhiY0lnNGJIbExlNzJwdStZSC9YdG5tNW92S0Q2eVYzWWF0b2RhcU51N1NpdEV1WHlEUFE3WXArR3RpWDVONmhMQ2tqMUhRT3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDc0NjMyCWZpbGU6QWxnZUNvcHkgUHJvXzEuMC4wLXJjLjVfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC4wLXJjLjUKd1hPbHNVaHhHSnEzeFpzEThMTVONVZQVEwwNDh6bTA3UndRTklQajRxSjg5RHV1MHcrSDFacDBjWFdNblFtMTVxdTZuZk1pTWJGeDFaWC8vQWszQnc9PQo=",
-      "url": "https://github.com/rodrigoalgeri/AlgeCopyPro-releases/releases/download/v1.0.0-rc.5/AlgeCopyPro-1.0.0-rc.5-Windows-x64-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbi9iVkRHUWZPSTE+ZEJ4N1VtQStDWDIwaDIrRWdVOFVpTFNJNEYxU3FrR3YwVUIyYk9pdEtjUStzVnFXYTJSZ2FIeDBwaTJ4K09xcDhPb0U5d1ZNSWZvR2FaaERvc3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDc1ODU1CWZpbGU6QWxnZUNvcHkgUHJvXzEuMC4wLXJjLjZfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC4wLXJjLjYKajZ3ajgxVEsxOGZkNGFIV3l1Z3poODlmbndrTmpaWGRMV3JMMGlQV3kwY3lvMHpmdGdORi95UTg5SXBlb2lmbDJFUk5YRmhUNllCMzZIOUJZeXU0Q1E9PQo=",
+      "url": "https://github.com/rodrigoalgeri/AlgeCopyPro-releases/releases/download/v1.0.0-rc.6/AlgeCopyPro-1.0.0-rc.6-Windows-x64-Setup.exe"
     }
   }
 }
