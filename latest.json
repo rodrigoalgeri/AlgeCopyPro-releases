@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0-rc.8",
-  "notes": "A janela flutuante agora abre diretamente em Fixados e permite percorrer os grupos com as setas esquerda e direita do teclado, mantendo os itens exibidos sincronizados com o grupo selecionado.",
-  "pub_date": "2026-10-08T18:02:26.808Z",
+  "version": "1.0.0-rc.9",
+  "notes": "Corrige a navegação da janela flutuante: ela volta a abrir em Recentes. Ao clicar em Fixados, as setas esquerda e direita percorrem todos os grupos, inclusive os que estão fora da área visível, sem alternar as abas. Remove o contorno extra de foco dos grupos.",
+  "pub_date": "2026-10-08T18:25:37.989Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbi9iVkRHUWZPSTg4cjhESGttbTFmbzVqZUd6T04zbUpBa0ZjM0JhL3NhVGR1dGVBTmJQbDlwaW5KRER1a2F6blZUWnoxYWZ4ak5YYUJVQnBEcE1wNThUWExrd2NuTFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDgyNTQ1CWZpbGU6QWxnZUNvcHkgUHJvXzEuMC4wLXJjLjhfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC4wLXJjLjgKLzBJMndPSmxBdTFXaDkrTDhwTHFYTzNYV3lDVVNKMithK3pCMC9zYVhOTVlsMEFsSHJHN0swVHVBdkZ1dFdpU1RuZWhySk9OaGVRNjRqL2s5b3RnREE9PQo=",
-      "url": "https://github.com/rodrigoalgeri/AlgeCopyPro-releases/releases/download/v1.0.0-rc.8/AlgeCopyPro-1.0.0-rc.8-Windows-x64-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbi9iVkRHUWZPSTlvS0w3UVcwN0s2ZE0zbS83RFBKZjBNSk0xaWQ2UXlMQ0pTU1FhdXk1bjg3bUJRVE5XRjlpeGYwVGVZTEwremc0aExYVDB2Y1cwUk5CejhBczVaUFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDgzOTI1CWZpbGU6QWxnZUNvcHkgUHJvXzEuMC4wLXJjLjlfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC4wLXJjLjkKcHRUWldCai9aQnBRTGFmSGFtMUR2MTEwOVU1RkxxU0JlZDIrSmYrZTdVdURNWDFqZTVqWWdvVGR0c1lyNERXRGhicDlpYVlZYVFvRXVkR3ZpMndqQmc9PQo=",
+      "url": "https://github.com/rodrigoalgeri/AlgeCopyPro-releases/releases/download/v1.0.0-rc.9/AlgeCopyPro-1.0.0-rc.9-Windows-x64-Setup.exe"
     }
   }
 }
