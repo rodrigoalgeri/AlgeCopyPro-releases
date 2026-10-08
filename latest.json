@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0-rc.1",
-  "notes": "Candidata de lançamento para validação da versão estável 1.0.0. Os controles de animação do painel principal e da janela flutuante foram organizados junto das respectivas opções de comportamento. A verificação de atualizações também informa a versão instalada quando não há uma versão mais nova.",
-  "pub_date": "2026-10-08T13:37:24.000Z",
+  "version": "1.0.0-rc.2",
+  "notes": "Candidata de lançamento com categorias recolhíveis para organizar os Fixados dentro de cada grupo. Crie, renomeie, reordene e exclua categorias; atribua cada item a um grupo e categoria pelo menu Organizar. Grupos, categorias e associações permanecem salvos após reiniciar o aplicativo.",
+  "pub_date": "2026-10-08T14:23:28.616Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbi9iVkRHUWZPSTJsVVNTamRCQlFISzBkMURkZlZUclZLamN1T2FZdFN4Z0MxWkxVdEhJdDA0RndZRUwyVUdVNkRTZmpmWk1Hb05KbDVSd3FnSG1LU3NsUDhSbDFzUWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDY1Nzg3CWZpbGU6QWxnZUNvcHkgUHJvXzEuMC4wLXJjLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC4wLXJjLjEKYlBIQU9MK29vbHl3Sm9mb0xVczdackc1Y3VwQnNPUWNFMEhRdHhXeU1tcHdRK0NtbzZjS3ptaUM3SU5SSGVWWUtHaFRVUHdVQ1VuTlpVY3ZXZmNQRFE9PQo=",
-      "url": "https://github.com/rodrigoalgeri/AlgeCopyPro-releases/releases/download/v1.0.0-rc.1/AlgeCopyPro-1.0.0-rc.1-Windows-x64-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbi9iVkRHUWZPSS9DL2lwTGZTSWxBK3FUOEFyOTRXOEV4Q3dsWFRqSGNNbFhnL3dFdnU0dHVzM09IYmNabWU4Nko2YXcrMCtsUFViek9zbW83Sk9Ed2FKZzBLUlhPZ1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDY5NDA3CWZpbGU6QWxnZUNvcHkgUHJvXzEuMC4wLXJjLjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC4wLXJjLjIKcUU4aHAyTWFBWXNleTQ4OUJLd3RhUUlpRTc2Q3ZUNDMwYUlOU0hsRmM1dExoN2FqYWlmTlAvWlpnREs2L3lxYmNxN2I0QnFiMklLb29OVTFyZmFoQlE9PQo=",
+      "url": "https://github.com/rodrigoalgeri/AlgeCopyPro-releases/releases/download/v1.0.0-rc.2/AlgeCopyPro-1.0.0-rc.2-Windows-x64-Setup.exe"
     }
   }
 }
