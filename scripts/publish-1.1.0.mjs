@@ -49,22 +49,20 @@ const remoteFile = api('repos/' + repository + '/contents/latest.json?ref=main')
 const currentManifest = JSON.parse(Buffer.from(remoteFile.content, 'base64').toString('utf8'));
 if (!['1.0.1', version].includes(currentManifest.version)) throw Error('O manifesto público mudou. Rever publicação antes de continuar.');
 
-let release;
-try {
-  release = api('repos/' + repository + '/releases/tags/' + tag);
-} catch (error) {
-  if (!String(error.message).includes('404')) throw error;
+function findRelease() {
+  return api('repos/' + repository + '/releases?per_page=100').find(release => release.tag_name === tag);
 }
+let release = findRelease();
 if (!release) {
   gh(['release', 'create', tag, '--repo', repository, '--target', 'main', '--draft',
       '--title', 'AlgeCopy Pro 1.1.0 — Seu histórico no ritmo do teclado',
       '--notes-file', join(base, 'release-notes.md')]);
-  release = api('repos/' + repository + '/releases/tags/' + tag);
+  release = findRelease();
 }
 if (release.draft) {
   gh(['release', 'upload', tag, '--repo', repository, '--clobber',
       join(base, filename), join(base, filename + '.sig'), join(base, filename + '.sha256')]);
-  const uploaded = api('repos/' + repository + '/releases/tags/' + tag);
+  const uploaded = findRelease();
   for (const [name, size] of [[filename, data.length], [filename + '.sig', readFileSync(join(base, filename + '.sig')).length],
                             [filename + '.sha256', readFileSync(join(base, filename + '.sha256')).length]]) {
     if (!uploaded.assets.some(asset => asset.name === name && asset.size === size && asset.state === 'uploaded')) throw Error('Asset incompleto: ' + name);
