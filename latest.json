@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0-rc.7",
-  "notes": "Corrige a perda de categorias dos grupos e das associações dos itens fixados ao salvar o histórico. Quando o backup de uma versão anterior ainda contém esses dados, o aplicativo tenta recuperá-los automaticamente.",
-  "pub_date": "2026-10-08T17:36:56.966Z",
+  "version": "1.0.0-rc.8",
+  "notes": "A janela flutuante agora abre diretamente em Fixados e permite percorrer os grupos com as setas esquerda e direita do teclado, mantendo os itens exibidos sincronizados com o grupo selecionado.",
+  "pub_date": "2026-10-08T18:02:26.808Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbi9iVkRHUWZPSS9lc1p4LzBSSmhiQ2R2Njc1elRuc3RHYjZjTElVRWFCck9nZk9ocGM3eXpyaU8yOEJrRXQ5ZWF4RTU4V2NmRjBiN0gzSGRpWFFqT29xRHhrYkNWbEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDgxMDE1CWZpbGU6QWxnZUNvcHkgUHJvXzEuMC4wLXJjLjdfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC4wLXJjLjcKMjZrWDF1L1I5MmtjazZBYllvMEgvOS9KRk9hUWM0VmpSR1pJWStOWHNZVGlBcjB3djNTY2dHd2VsUEJlSDJJV0FLN3NLckNVS09zTTJMRkg2dEZMREE9PQo=",
-      "url": "https://github.com/rodrigoalgeri/AlgeCopyPro-releases/releases/download/v1.0.0-rc.7/AlgeCopyPro-1.0.0-rc.7-Windows-x64-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbi9iVkRHUWZPSTg4cjhESGttbTFmbzVqZUd6T04zbUpBa0ZjM0JhL3NhVGR1dGVBTmJQbDlwaW5KRER1a2F6blZUWnoxYWZ4ak5YYUJVQnBEcE1wNThUWExrd2NuTFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDgyNTQ1CWZpbGU6QWxnZUNvcHkgUHJvXzEuMC4wLXJjLjhfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC4wLXJjLjgKLzBJMndPSmxBdTFXaDkrTDhwTHFYTzNYV3lDVVNKMithK3pCMC9zYVhOTVlsMEFsSHJHN0swVHVBdkZ1dFdpU1RuZWhySk9OaGVRNjRqL2s5b3RnREE9PQo=",
+      "url": "https://github.com/rodrigoalgeri/AlgeCopyPro-releases/releases/download/v1.0.0-rc.8/AlgeCopyPro-1.0.0-rc.8-Windows-x64-Setup.exe"
     }
   }
 }
