@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0-beta.3",
-  "notes": "Os itens fixados agora mostram uma prévia do conteúdo copiado abaixo do nome, tanto no painel principal quanto na janela flutuante. Textos longos ficam em uma linha com reticências, mantendo o conteúdo completo para colar.",
-  "pub_date": "2026-10-07T21:42:19.430Z",
+  "version": "0.2.0-beta.4",
+  "notes": "Os controles de efeito e duração do Painel da borda e da Janela flutuante agora ficam em Configurações > Comportamento, junto das opções de abertura. As preferências salvas e o funcionamento dos dois painéis foram mantidos.",
+  "pub_date": "2026-10-08T12:25:48.676Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbi9iVkRHUWZPSXdzN2ZzOCtDeXFQS2NMVloyazdPVnZORkxFMi9Mbk8vQ2lDc2JTbFh6aCt1SkJ5ODFTNjZPRVc1bTA3K1dMRHNBNklzRjZKVkxZcWJzM1Z5RjRmN0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDA5MzI1CWZpbGU6QWxnZUNvcHkgUHJvXzAuMi4wLWJldGEuM194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjAtYmV0YS4zCkJaY1dYUzRjV0JTVHVaVmRoTVlWdjNWa3JmTnN1NjdPL0I1cVowYm92cHp5ZVNBT3BGRCt6L1FiL1hOdEFlbThheGc2L2xPaHYxL0xXME1mYUNZaUJRPT0K",
-      "url": "https://github.com/rodrigoalgeri/AlgeCopyPro-releases/releases/download/v0.2.0-beta.3/AlgeCopyPro-0.2.0-beta.3-Windows-x64-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbi9iVkRHUWZPSXlKaWZQcnFtYWh6NTdsQ2FkeUdPNnZ3VzBYTVZURTZXaytpVVB3ZU5aUHpVZ2d1dmpSU2JiNklkNGJsRThoN1hQQUQvZjQzMGFtWm5GQTFlTmExNkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDYyMzQ3CWZpbGU6QWxnZUNvcHkgUHJvXzAuMi4wLWJldGEuNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjAtYmV0YS40ClNlUWVTWUNLRDNPdm1rMXk0Yk9Wb1o4eHpHWGpJOCtsL2ZQdGcxNHlyMWUvQkFObHUxOHhyOW90MGQxYXAySUJudmlqZ01PL1RkYzgzbzh4d05CNUNRPT0K",
+      "url": "https://github.com/rodrigoalgeri/AlgeCopyPro-releases/releases/download/v0.2.0-beta.4/AlgeCopyPro-0.2.0-beta.4-Windows-x64-Setup.exe"
     }
   }
 }
