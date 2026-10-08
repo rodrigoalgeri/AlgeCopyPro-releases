@@ -2,7 +2,7 @@
 
 Área de transferência mais organizada para Windows.
 
-[Baixar instalador — 0.2.0 · Beta 3](https://github.com/rodrigoalgeri/AlgeCopyPro-releases/releases/tag/v0.2.0-beta.3)
+[Baixar instalador — 0.2.0 · Beta 4](https://github.com/rodrigoalgeri/AlgeCopyPro-releases/releases/tag/v0.2.0-beta.4)
 
 Desenvolvido pela **AlgeriTec**, por **Rodrigo Lampert Algeri**.
 
