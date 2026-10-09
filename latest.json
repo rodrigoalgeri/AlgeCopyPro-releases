@@ -1,11 +1,11 @@
 {
-  "version": "1.2.2",
-  "notes": "Mais fluidez e controle no seu dia a dia. Ajustamos a abertura do painel nas bordas da tela e ampliamos a navegação Vim entre Recentes e Fixados. Conteúdos completos agora podem ser colados somente como texto, mantendo o original para reutilização. Esta versão também inclui a proteção contra instâncias duplicadas e as melhorias de inicialização.",
-  "pub_date": "2026-10-09T19:25:05.047Z",
+  "version": "1.2.3",
+  "notes": "Conheça a evolução do AlgeCopy Pro. O novo botão Histórico de versões, em Configurações → Sobre, reúne as novidades e os ajustes de cada lançamento em uma janela própria. A versão instalada fica em destaque, e as descrições podem ser consultadas mesmo sem internet. Novos lançamentos são buscados ao abrir o histórico.",
+  "pub_date": "2026-10-09T20:05:34.495Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbi9iVkRHUWZPSXhhMVY0YzRKKy90dVNaN3NSYjY5MVljbVUzNUVPKzNBUytUWEo4ZkFRb0FxVDVzZEVJU2tuWXhSN204bU1sRElzUitHUTYwZHkxN3pDZDRaczJzSXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTczOTA0CWZpbGU6QWxnZUNvcHkgUHJvXzEuMi4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuMgpCMHlqbVF3V0UvdGhndFZxVXo2WVJKVWlyZ0VsNTNCOVZ0RTBpYk5OT3FHZmJveVRLdjlvM21xVUtkTUxzRXRJbHd6aVRBeGpQSGZ4Szg5WDRHMlVDdz09Cg==",
-      "url": "https://github.com/rodrigoalgeri/AlgeCopyPro-releases/releases/download/v1.2.2/AlgeCopyPro-1.2.2-Windows-x64-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbi9iVkRHUWZPSXhDN015aitvbFBSSlZoZmFieDEvMExrZzc0U3cwZUxvS1lvUW8vSUtvQ2UxbmVCZzVFWFI2M2cwWjhyK3ZJeUJHOGFJNkNNeElsNGEvdWZydit5T2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTc2MzM0CWZpbGU6QWxnZUNvcHkgUHJvXzEuMi4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuMwpVeDJNRDIrZzZpVHl3dTBOeFphVU9aWnBybHhjRXhWdlB3bUJ5ek1zandkWTdOODl5RHNXNGg4WXVrajQ5ZlJwamlrR21Lbkh3RUtlakZkVWh6ZHNEUT09Cg==",
+      "url": "https://github.com/rodrigoalgeri/AlgeCopyPro-releases/releases/download/v1.2.3/AlgeCopyPro-1.2.3-Windows-x64-Setup.exe"
     }
   }
 }
