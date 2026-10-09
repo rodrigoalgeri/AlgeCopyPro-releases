@@ -57,8 +57,13 @@ if (!release) {
   gh(['release', 'create', tag, '--repo', repository, '--target', 'main', '--draft',
       '--title', 'AlgeCopy Pro 1.1.1 — Ajuste de experiência',
       '--notes-file', join(base, 'release-notes.md')]);
-  release = findRelease();
+  for (let attempt = 0; attempt < 10; attempt++) {
+    release = findRelease();
+    if (release) break;
+    await new Promise(resolve => setTimeout(resolve, 1000));
+  }
 }
+if (!release) throw Error('Rascunho da publicação não encontrado após a criação.');
 if (release.draft) {
   gh(['release', 'upload', tag, '--repo', repository, '--clobber',
       join(base, filename), join(base, filename + '.sig'), join(base, filename + '.sha256')]);
