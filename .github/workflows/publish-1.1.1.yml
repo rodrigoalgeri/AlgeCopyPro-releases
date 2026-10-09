@@ -2,7 +2,7 @@ name: Publicar AlgeCopy Pro 1.1.1
 on:
   push:
     branches: [codex/publish-1.1.1]
-    paths: [staging/1.1.1/package.zip, scripts/publish-1.1.1.mjs]
+    paths: [staging/1.1.1/package.zip]
 permissions:
   contents: write
 concurrency:
@@ -21,7 +21,7 @@ jobs:
       - name: Conferir arquivo do Actions privado
         shell: bash
         run: |
-          echo '__EXPECTED_PACKAGE_ZIP_SHA256__  staging/1.1.1/package.zip' | sha256sum --check --strict
+          echo '66f114a957b1e256df8f8226987590575a574039cec46dac959e77d09c8f2cc2  staging/1.1.1/package.zip' | sha256sum --check --strict
           mkdir -p "$RUNNER_TEMP/algecopy-1.1.1"
           unzip -q staging/1.1.1/package.zip -d "$RUNNER_TEMP/algecopy-1.1.1"
       - name: Validar assinatura e publicar atualização
