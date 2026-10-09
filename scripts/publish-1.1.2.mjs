@@ -89,7 +89,7 @@ for (let attempt = 0; attempt < 15; attempt++) {
 if (publicHash !== expectedSha) throw Error('O instalador público difere do pacote assinado. Manifesto não alterado.');
 const finalFile = api('repos/' + repository + '/contents/latest.json?ref=main');
 const finalManifest = JSON.parse(Buffer.from(finalFile.content, 'base64').toString('utf8'));
-if (!['1.1.0', version].includes(finalManifest.version)) throw Error('Outra versão foi anunciada durante a publicação.');
+if (!['1.1.1', version].includes(finalManifest.version)) throw Error('Outra versão foi anunciada durante a publicação.');
 if (finalManifest.version !== version || finalManifest.platforms?.['windows-x86_64']?.signature !== signature) {
   api('repos/' + repository + '/contents/latest.json', {
     branch: 'main',
