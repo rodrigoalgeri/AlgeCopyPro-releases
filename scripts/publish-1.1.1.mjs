@@ -7,7 +7,7 @@ const repository = 'rodrigoalgeri/AlgeCopyPro-releases';
 const version = '1.1.1';
 const tag = 'v1.1.1';
 const filename = 'AlgeCopyPro-1.1.1-Windows-x64-Setup.exe';
-const expectedSha = '__EXPECTED_INSTALLER_SHA256__';
+const expectedSha = '58a098cb862e5103b16610b0cf215729d010ab8779cd7747f4f6c56e5ab6cacd';
 const publicKey = 'dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDIzQ0UwNzE5NDNCNUZEQTcKUldTbi9iVkRHUWZPSS9qNFg0Z2lFNVl2bFhOb1I5U3RpT3k5SUVOYUlraW81QlZvb2xHdDZld0kK';
 const base = process.env.ALGE_PACKAGE;
 if (!base) throw Error('Pasta do pacote ausente.');
