@@ -1,0 +1,31 @@
+name: Publicar AlgeCopy Pro 1.2.1
+on:
+  push:
+    branches: [codex/publish-1.2.1]
+    paths: [staging/1.2.1/package.zip, scripts/publish-1.2.1.mjs]
+permissions:
+  contents: write
+concurrency:
+  group: publicar-algecopy-1.2.1
+  cancel-in-progress: false
+jobs:
+  publicar:
+    if: github.repository == 'rodrigoalgeri/AlgeCopyPro-releases'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - name: Obter pacote assinado e scripts
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          persist-credentials: false
+      - name: Conferir arquivo do Actions privado
+        shell: bash
+        run: |
+          echo '7dd47e86bc8547d7e0d664f16a3967bb59ae1122362c13b6e24c30b3b0b1796b  staging/1.2.1/package.zip' | sha256sum --check --strict
+          mkdir -p "$RUNNER_TEMP/algecopy-1.2.1"
+          unzip -q staging/1.2.1/package.zip -d "$RUNNER_TEMP/algecopy-1.2.1"
+      - name: Validar assinatura e publicar atualização
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ALGE_PACKAGE: ${{ runner.temp }}/algecopy-1.2.1
+        run: node scripts/publish-1.2.1.mjs
