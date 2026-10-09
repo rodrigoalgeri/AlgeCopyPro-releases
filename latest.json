@@ -1,11 +1,11 @@
 {
-  "version": "1.1.2",
-  "notes": "Navegue pelos Fixados com ← e →, percorra todos os grupos e retome exatamente de onde parou.",
-  "pub_date": "2026-10-09T16:57:06.125Z",
+  "version": "1.2.0",
+  "notes": "Conteúdo completo chegou ao AlgeCopy Pro: guarde e reutilize textos com formatação, links e imagens em uma única cópia. Fixe seus modelos e mantenha tudo organizado. Escolha abrir pela barrinha, pelos cantos ou pelos dois, com tempo desde 0 ms. Os fixados organizados aparecem somente no grupo escolhido; Todos reúne os itens sem grupo.",
+  "pub_date": "2026-10-09T17:58:55.471Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbi9iVkRHUWZPSTBITE9HSHlKSXczT1czU01wZ3ZRTmlFaXZPQlBodkRpM0hoNmFJbFFUSWRWa0xwcDFlU2x2OG9TSTZDNk1jdTFLb2RrN1gzdkFrdFBTNlgveU9IOXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTY1MDI2CWZpbGU6QWxnZUNvcHkgUHJvXzEuMS4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjEuMgpJOU9SZnhFN0NiSUlmTnFhQzJHdnhaeGM0TkZpZjFwQWE5SkVuWmQ5eCt0enVadVp0bGdIajhZUS9wcW1YdlBkaDIzWEM3ZVM1T1FXcEZhOWZRWE5Edz09Cg==",
-      "url": "https://github.com/rodrigoalgeri/AlgeCopyPro-releases/releases/download/v1.1.2/AlgeCopyPro-1.1.2-Windows-x64-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbi9iVkRHUWZPSTdvNUxzbW45TXI4b3JSNitWa2lVZ0dXNllXVHdqK3IycXJpajZEaDB5Y2hpRFoyNC9Hd3F5VWpHZ0JGMWlQVWlDRi9zQmZIOTRCOVVOZHlzQWJqRndrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTY4NzM1CWZpbGU6QWxnZUNvcHkgUHJvXzEuMi4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuMApLbkFZcFRoSEg2RkVyMjdmNWI4VnFLTkMwY1crUXZ1d2dhM0JET2lmb0NEdUtJRG00NUJOWGV1SUcvVmh4alFYWFNJTG9aWWZqWFZnbGw3SjE2cWRCZz09Cg==",
+      "url": "https://github.com/rodrigoalgeri/AlgeCopyPro-releases/releases/download/v1.2.0/AlgeCopyPro-1.2.0-Windows-x64-Setup.exe"
     }
   }
 }
