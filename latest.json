@@ -1,11 +1,11 @@
 {
-  "version": "1.1.1",
-  "notes": "Pequeno ajuste de experiência para deixar o AlgeCopy Pro ainda mais fluido no dia a dia.",
-  "pub_date": "2026-10-09T15:15:46.101Z",
+  "version": "1.1.2",
+  "notes": "Navegue pelos Fixados com ← e →, percorra todos os grupos e retome exatamente de onde parou.",
+  "pub_date": "2026-10-09T16:57:06.125Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbi9iVkRHUWZPSTg4UnVacXRFWkZrNlpXbkRXajdDRnRRYXF4MFExdVJuR0JCaHEweG5SSytJTWxnM1BaVHREZUxHY0dQZ2JGcWZObEQ1djg0cUtOd0RucGh1cXduUEFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTU4OTQ2CWZpbGU6QWxnZUNvcHkgUHJvXzEuMS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjEuMQpGSEZjSlQzTlJLOWZnc0VnRmVBYlJYSTJ3Q0t0RXFydXAyWm5uYnQvcFZsUjNRVFBySFM2UEFpR0k4NGJwd2RKa01pdFo4V1cyUjRSclNTNlVmZk1CQT09Cg==",
-      "url": "https://github.com/rodrigoalgeri/AlgeCopyPro-releases/releases/download/v1.1.1/AlgeCopyPro-1.1.1-Windows-x64-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbi9iVkRHUWZPSTBITE9HSHlKSXczT1czU01wZ3ZRTmlFaXZPQlBodkRpM0hoNmFJbFFUSWRWa0xwcDFlU2x2OG9TSTZDNk1jdTFLb2RrN1gzdkFrdFBTNlgveU9IOXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTY1MDI2CWZpbGU6QWxnZUNvcHkgUHJvXzEuMS4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjEuMgpJOU9SZnhFN0NiSUlmTnFhQzJHdnhaeGM0TkZpZjFwQWE5SkVuWmQ5eCt0enVadVp0bGdIajhZUS9wcW1YdlBkaDIzWEM3ZVM1T1FXcEZhOWZRWE5Edz09Cg==",
+      "url": "https://github.com/rodrigoalgeri/AlgeCopyPro-releases/releases/download/v1.1.2/AlgeCopyPro-1.1.2-Windows-x64-Setup.exe"
     }
   }
 }
