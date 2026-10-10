@@ -1,11 +1,11 @@
 {
-  "version": "1.2.3",
-  "notes": "Conheça a evolução do AlgeCopy Pro. O novo botão Histórico de versões, em Configurações → Sobre, reúne as novidades e os ajustes de cada lançamento em uma janela própria. A versão instalada fica em destaque, e as descrições podem ser consultadas mesmo sem internet. Novos lançamentos são buscados ao abrir o histórico.",
-  "pub_date": "2026-10-09T20:05:34.495Z",
+  "version": "1.2.4",
+  "notes": "Cole do seu jeito. A janela flutuante agora oferece um botão de colar somente texto no canto superior direito de cada item, em Recentes e Fixados. A opção também está disponível no menu dos fixados do painel principal. O conteúdo completo permanece salvo para reutilizar com a formatação original.",
+  "pub_date": "2026-10-10T19:17:14.835Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbi9iVkRHUWZPSXhDN015aitvbFBSSlZoZmFieDEvMExrZzc0U3cwZUxvS1lvUW8vSUtvQ2UxbmVCZzVFWFI2M2cwWjhyK3ZJeUJHOGFJNkNNeElsNGEvdWZydit5T2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTc2MzM0CWZpbGU6QWxnZUNvcHkgUHJvXzEuMi4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuMwpVeDJNRDIrZzZpVHl3dTBOeFphVU9aWnBybHhjRXhWdlB3bUJ5ek1zandkWTdOODl5RHNXNGg4WXVrajQ5ZlJwamlrR21Lbkh3RUtlakZkVWh6ZHNEUT09Cg==",
-      "url": "https://github.com/rodrigoalgeri/AlgeCopyPro-releases/releases/download/v1.2.3/AlgeCopyPro-1.2.3-Windows-x64-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbi9iVkRHUWZPSTZ1TEJnVVlQRG1QeEVFTDB6L05KQTRFRFlrMXBCK3VpbzNpWlMvKzg0eWpwdjB4R05tN3UxY0FLYmErL1UyRm9McG0yRjN3amxxdVJNUlB4T2hsdWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjU5ODM0CWZpbGU6QWxnZUNvcHkgUHJvXzEuMi40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuNAp2N1dhTndyYzB1dXFGNFFLUVdDVUh3WHhodnFDald5MWVObnRtUHZnL3VQOHFFMHVvRit1cDNISnZuamJ4TXhhVTFPTFlKWWpiaitPT2JsckYzLzBEdz09Cg==",
+      "url": "https://github.com/rodrigoalgeri/AlgeCopyPro-releases/releases/download/v1.2.4/AlgeCopyPro-1.2.4-Windows-x64-Setup.exe"
     }
   }
 }
