@@ -1,11 +1,11 @@
 {
-  "version": "1.2.4",
-  "notes": "Cole do seu jeito. A janela flutuante agora oferece um botão de colar somente texto no canto superior direito de cada item, em Recentes e Fixados. A opção também está disponível no menu dos fixados do painel principal. O conteúdo completo permanece salvo para reutilizar com a formatação original.",
-  "pub_date": "2026-10-10T19:17:14.835Z",
+  "version": "1.2.5",
+  "notes": "Mais destaque, o mesmo jeito de usar. O painel principal e a janela flutuante agora têm um contorno fino que acompanha as cores do tema, para facilitar a identificação das janelas sobre outros aplicativos. O ajuste preserva os cantos arredondados e funciona nos layouts vertical e horizontal.",
+  "pub_date": "2026-10-10T19:52:36.967Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbi9iVkRHUWZPSTZ1TEJnVVlQRG1QeEVFTDB6L05KQTRFRFlrMXBCK3VpbzNpWlMvKzg0eWpwdjB4R05tN3UxY0FLYmErL1UyRm9McG0yRjN3amxxdVJNUlB4T2hsdWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjU5ODM0CWZpbGU6QWxnZUNvcHkgUHJvXzEuMi40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuNAp2N1dhTndyYzB1dXFGNFFLUVdDVUh3WHhodnFDald5MWVObnRtUHZnL3VQOHFFMHVvRit1cDNISnZuamJ4TXhhVTFPTFlKWWpiaitPT2JsckYzLzBEdz09Cg==",
-      "url": "https://github.com/rodrigoalgeri/AlgeCopyPro-releases/releases/download/v1.2.4/AlgeCopyPro-1.2.4-Windows-x64-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbi9iVkRHUWZPSTI1aTRuSU92MFF2b2xUb3VmNWlvV3o2eXBZWTNicmltaGFwR3NTcjJqaHlWYUlDTk5nd3pBM1NsVzJNVVdtT1drOUkvREFpdDRWVUk1SHV2LzFnVGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjYxOTU2CWZpbGU6QWxnZUNvcHkgUHJvXzEuMi41X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuNQowYWlybEYyZGVoYUtkN3lQVXlUY3pRT05neCtKU1FDZXlrb2ZEeW1ySi9aUDZMSU9QZ3RrM0ZtL2hOUW9qSmVGMHBHSXJyNitMa3pvQ0dmSnZ0cTdCdz09Cg==",
+      "url": "https://github.com/rodrigoalgeri/AlgeCopyPro-releases/releases/download/v1.2.5/AlgeCopyPro-1.2.5-Windows-x64-Setup.exe"
     }
   }
 }
