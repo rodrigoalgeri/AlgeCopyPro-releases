@@ -1,11 +1,11 @@
 {
-  "version": "1.3.0",
-  "notes": "Sua próxima ideia começa com uma cor. Conheça o novo Seletor de cores do AlgeCopy Pro: capture uma cor da tela, ajuste HEX, RGB, HSL e opacidade, descubra combinações e organize paletas com nome. Copie cores ou paletas como CSS e confira o contraste do texto. A nova aba Cores ocupa o lugar de Links; seus links continuam disponíveis no Histórico e na busca. As paletas ficam salvas neste computador.",
-  "pub_date": "2026-10-13T06:57:00.615Z",
+  "version": "1.4.0",
+  "notes": "Seu AlgeCopy, suas cores. Personalize sua área de transferência com os novos temas ChatGPT e VS Code, cada um em modo claro, escuro ou seguindo o Windows. Escolha a cor de destaque entre 12 opções, use o seletor personalizado ou informe um código HEX. Sua escolha acompanha o painel principal e a janela flutuante, fica salva ao reiniciar e pode voltar à cor original do tema com um clique. Os destaques azuis mantêm texto branco para uma leitura mais clara.",
+  "pub_date": "2026-10-13T08:09:55.268Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbi9iVkRHUWZPSStSNllteFBsV1prUkIxVlZsdDYyTW12clhyTTV0RjUvVXdFYzEyM1pNakJLbTZzUG9WSjQ4Mm5FN2R3V3RvWDV2NTN1cm10MmtrRWhVOW96OVQxV3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODc0NjIwCWZpbGU6QWxnZUNvcHkgUHJvXzEuMy4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjMuMApzMXNyc29yRlY5c1ZEMzlHemNHRytad0crYmNnaC9ObndFUnJDcWt5ZEpVMjRDaDMwVnlneFJ5VHlsTjNjeUU4ejc0MWJFbHNneWdGQmowRk5HNzZBdz09Cg==",
-      "url": "https://github.com/rodrigoalgeri/AlgeCopyPro-releases/releases/download/v1.3.0/AlgeCopyPro-1.3.0-Windows-x64-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbi9iVkRHUWZPSTh3MS9PM2tTeE9ETzdZVUVLaUI3RTRETlZSeEtmOFBMTkdrbzBHS3ZnMWo0QUFxUVpWeXcwMytYYTc0WXBRRWgwT2FCMzZQM29VMFBKdHFvRkV5bUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODc4OTk1CWZpbGU6QWxnZUNvcHkgUHJvXzEuNC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjQuMApBdy9OQjZFUVZpck9MR2pYMnVQN1VZbUZpNm1BTjFBQ2VJcjUzRFVYWXJ0c1Y1UndtOWVTdHZkallKc2xVMVVHUnBoNEFsTWJvQzRoNUdCWjYvYXdCQT09Cg==",
+      "url": "https://github.com/rodrigoalgeri/AlgeCopyPro-releases/releases/download/v1.4.0/AlgeCopyPro-1.4.0-Windows-x64-Setup.exe"
     }
   }
 }
