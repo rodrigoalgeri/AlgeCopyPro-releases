@@ -1,11 +1,11 @@
 {
-  "version": "1.2.6",
-  "notes": "Contorno com mais destaque. A borda da janela principal e da flutuante ficou um pouco mais visível e acompanha as cores do tema, mantendo os cantos arredondados.",
-  "pub_date": "2026-10-13T04:34:06.748Z",
+  "version": "1.2.7",
+  "notes": "Mais fluidez em cada movimento. Ajustamos o recolhimento do painel ao sair com o mouse, incluindo o uso com navegação Vim. O contorno do painel principal e da janela flutuante também foi refinado para manter os cantos contínuos e bem definidos.",
+  "pub_date": "2026-10-13T06:00:06.798Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbi9iVkRHUWZPSTZ4aEpUY3did1BQbm5VTktkbzBHeEVRWjJNbmcwZ2JoVGRuSXBnaUpHMWR5R0tIbk15WXJPaS9HbFM1T1VVNHN6blo5WnBhWXNmbHJHekdINzZTM1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODY2MDQ2CWZpbGU6QWxnZUNvcHkgUHJvXzEuMi42X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuNgpUb3VrQzE1KzcwZENJc1RMUUdtZlNaRVRIS0lkNWhMV0ZIaG9OeU83TE90eklaYnJ3K2k0MmtYU1lBMUoxK1oySDZUYVJvczRrN3FpUlpkNCtLWlBCUT09Cg==",
-      "url": "https://github.com/rodrigoalgeri/AlgeCopyPro-releases/releases/download/v1.2.6/AlgeCopyPro-1.2.6-Windows-x64-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbi9iVkRHUWZPSTVTck5BK1o0V0g1Tll0YU9rYmJDcmtwRFBaQTJaUHRKWDQ3VDlEajRDazVIT1M5SmVpc3Vock1wak0xNEFnSGJwYXNEWjJWWEd5K3NPS0V6SjRRN2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODcxMjA2CWZpbGU6QWxnZUNvcHkgUHJvXzEuMi43X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuNwpiRUg1VzZJUVFhMUkrLy8wV3NCSU1QREFjL1ZsaHB6eVAybkY5REJ2amY4VUREVS8vRTA1Ymh2bW5ha3FMNkFLVDBENjM1QmpTdWxrL3RXRUhSMXFCUT09Cg==",
+      "url": "https://github.com/rodrigoalgeri/AlgeCopyPro-releases/releases/download/v1.2.7/AlgeCopyPro-1.2.7-Windows-x64-Setup.exe"
     }
   }
 }
