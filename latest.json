@@ -1,11 +1,11 @@
 {
-  "version": "1.4.0",
-  "notes": "Seu AlgeCopy, suas cores. Personalize sua área de transferência com os novos temas ChatGPT e VS Code, cada um em modo claro, escuro ou seguindo o Windows. Escolha a cor de destaque entre 12 opções, use o seletor personalizado ou informe um código HEX. Sua escolha acompanha o painel principal e a janela flutuante, fica salva ao reiniciar e pode voltar à cor original do tema com um clique. Os destaques azuis mantêm texto branco para uma leitura mais clara.",
-  "pub_date": "2026-10-13T08:09:55.268Z",
+  "version": "1.4.1",
+  "notes": "Cor certa, no clique certo. Os textos dos destaques e do tema selecionado ficam brancos, com ajuste de contraste para manter a leitura em qualquer cor escolhida. O seletor de cores da tela agora coleta a cor com um clique do botão esquerdo sobre o ponto desejado. Esc ou botão direito cancelam a seleção. Ajustes disponíveis no painel principal e na janela flutuante.",
+  "pub_date": "2026-10-13T08:55:58.224Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbi9iVkRHUWZPSTh3MS9PM2tTeE9ETzdZVUVLaUI3RTRETlZSeEtmOFBMTkdrbzBHS3ZnMWo0QUFxUVpWeXcwMytYYTc0WXBRRWgwT2FCMzZQM29VMFBKdHFvRkV5bUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODc4OTk1CWZpbGU6QWxnZUNvcHkgUHJvXzEuNC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjQuMApBdy9OQjZFUVZpck9MR2pYMnVQN1VZbUZpNm1BTjFBQ2VJcjUzRFVYWXJ0c1Y1UndtOWVTdHZkallKc2xVMVVHUnBoNEFsTWJvQzRoNUdCWjYvYXdCQT09Cg==",
-      "url": "https://github.com/rodrigoalgeri/AlgeCopyPro-releases/releases/download/v1.4.0/AlgeCopyPro-1.4.0-Windows-x64-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbi9iVkRHUWZPSXg4RnVPczRqdGF3R3grWXhTSXJ1Vmdxb2R0K2E4ZEVyTjhtWWxDWXJaQ082ZUo1YWFzdGVZSUEwMmVvVVNaVXNmbVlvdDB4YXcwUUdTdkhPZnZhNXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODgxNzU4CWZpbGU6QWxnZUNvcHkgUHJvXzEuNC4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjQuMQpRMmpTUTdiaUNpeUpJd1VZUzV2NlJlWVFSS0hkS3ZHenp3SEhWWS8rV1M3T0kraFpaaU1MMythMWdrSTduUHBENVdHY09vb05xT2dMR3c4VWVKeGFDUT09Cg==",
+      "url": "https://github.com/rodrigoalgeri/AlgeCopyPro-releases/releases/download/v1.4.1/AlgeCopyPro-1.4.1-Windows-x64-Setup.exe"
     }
   }
 }
