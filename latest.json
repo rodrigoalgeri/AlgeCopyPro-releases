@@ -1,11 +1,11 @@
 {
-  "version": "1.2.7",
-  "notes": "Mais fluidez em cada movimento. Ajustamos o recolhimento do painel ao sair com o mouse, incluindo o uso com navegação Vim. O contorno do painel principal e da janela flutuante também foi refinado para manter os cantos contínuos e bem definidos.",
-  "pub_date": "2026-10-13T06:00:06.798Z",
+  "version": "1.3.0",
+  "notes": "Sua próxima ideia começa com uma cor. Conheça o novo Seletor de cores do AlgeCopy Pro: capture uma cor da tela, ajuste HEX, RGB, HSL e opacidade, descubra combinações e organize paletas com nome. Copie cores ou paletas como CSS e confira o contraste do texto. A nova aba Cores ocupa o lugar de Links; seus links continuam disponíveis no Histórico e na busca. As paletas ficam salvas neste computador.",
+  "pub_date": "2026-10-13T06:57:00.615Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbi9iVkRHUWZPSTVTck5BK1o0V0g1Tll0YU9rYmJDcmtwRFBaQTJaUHRKWDQ3VDlEajRDazVIT1M5SmVpc3Vock1wak0xNEFnSGJwYXNEWjJWWEd5K3NPS0V6SjRRN2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODcxMjA2CWZpbGU6QWxnZUNvcHkgUHJvXzEuMi43X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjIuNwpiRUg1VzZJUVFhMUkrLy8wV3NCSU1QREFjL1ZsaHB6eVAybkY5REJ2amY4VUREVS8vRTA1Ymh2bW5ha3FMNkFLVDBENjM1QmpTdWxrL3RXRUhSMXFCUT09Cg==",
-      "url": "https://github.com/rodrigoalgeri/AlgeCopyPro-releases/releases/download/v1.2.7/AlgeCopyPro-1.2.7-Windows-x64-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbi9iVkRHUWZPSStSNllteFBsV1prUkIxVlZsdDYyTW12clhyTTV0RjUvVXdFYzEyM1pNakJLbTZzUG9WSjQ4Mm5FN2R3V3RvWDV2NTN1cm10MmtrRWhVOW96OVQxV3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODc0NjIwCWZpbGU6QWxnZUNvcHkgUHJvXzEuMy4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjMuMApzMXNyc29yRlY5c1ZEMzlHemNHRytad0crYmNnaC9ObndFUnJDcWt5ZEpVMjRDaDMwVnlneFJ5VHlsTjNjeUU4ejc0MWJFbHNneWdGQmowRk5HNzZBdz09Cg==",
+      "url": "https://github.com/rodrigoalgeri/AlgeCopyPro-releases/releases/download/v1.3.0/AlgeCopyPro-1.3.0-Windows-x64-Setup.exe"
     }
   }
 }
