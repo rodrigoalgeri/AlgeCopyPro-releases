@@ -1,11 +1,11 @@
 {
-  "version": "1.5.0",
-  "notes": "Novo Colar em sequência no painel principal: selecione até 50 itens, ajuste a ordem e envie um item por vez com Colar próximo. Textos, conteúdo formatado, imagens e arquivos usam a colagem nativa existente. A fila fica apenas nesta sessão; se a colagem falhar, o item permanece para tentar novamente. Inclui backup portátil para exportar e restaurar histórico, grupos, preferências e anexos. Senhas copiadas pelo gerador deixam de entrar no histórico do AlgeCopy.",
-  "pub_date": "2026-10-15T08:46:30.341Z",
+  "version": "1.6.0",
+  "notes": "Colar em sequência ficou mais rápido: depois de iniciar a fila, posicione o cursor no destino e pressione e solte Ctrl + Alt + Shift + V para colar o próximo item, sem reabrir o painel. Um indicador discreto mostra a posição na fila e uma prévia do próximo conteúdo, sem tirar o foco do programa de destino. O atalho fica ativo somente durante a sequência e é liberado ao terminar, cancelar ou editar a fila. Se a combinação já estiver ocupada, o botão Colar próximo continua disponível. Falhas mantêm o item na fila para tentar novamente.",
+  "pub_date": "2026-10-18T05:46:05.116Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbi9iVkRHUWZPSXd6S3B5R0tEVnZaNW13bDV3Q0J4R1l1OWF2RWVFWEgxYUo5Vk5POGxQWkFqd0VZcUREYnptRisvdG5HSzB2eUwzMmNuM2g0YXdTYUQ0TmFCdStzNHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDUzOTkwCWZpbGU6QWxnZUNvcHkgUHJvXzEuNS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjUuMApLcCtETzBQUEZiejN1MGxyV2g0Yms1bUV3eTRWVUlqN1FyRXI0cmdYNGxtZUM0UGNmU0ptTE4rS3djdHZGMDA0ZFo4dGpWZlhzWXhMeVpFTFREOUZBdz09Cg==",
-      "url": "https://github.com/rodrigoalgeri/AlgeCopyPro-releases/releases/download/v1.5.0/AlgeCopyPro-1.5.0-Windows-x64-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbi9iVkRHUWZPSXl2ZGNUVjY2cWJyS0xZQlFrdU5VQ2k4QVZMQ092WDcwTmJiQURzSkQxbVE5WmpOdmh1WGI2SmVtUWhpcU9mVWN5Uy8wakJkOC9Ud01WSERpck9TUndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzAyMzYzCWZpbGU6QWxnZUNvcHkgUHJvXzEuNi4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjYuMApoYzJVNmMxeTVtdWpjem15djcwbkJWK2V0YjBQcnFtMTkrZGwrNEFZbVRaZ2JwNlJTZmpVcllIWkRlSjJqeU1NUjFuWkdWTTliU3JKUWJpSjgwdnlDZz09Cg==",
+      "url": "https://github.com/rodrigoalgeri/AlgeCopyPro-releases/releases/download/v1.6.0/AlgeCopyPro-1.6.0-Windows-x64-Setup.exe"
     }
   }
 }
