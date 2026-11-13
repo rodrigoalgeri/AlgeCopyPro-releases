@@ -1,11 +1,11 @@
 {
-  "version": "1.7.0",
-  "notes": "Novo tema Liquid Glass em Configurações > Aparência, com acabamentos Cristal, Equilibrado e Fumê. Personalize transparência, desfoque das superfícies, saturação e reflexos, com prévia ao vivo e salvamento automático. O tema acompanha os modos claro, escuro e sistema e sincroniza o painel principal com a janela flutuante. Nas versões compatíveis do Windows, usa o material Acrylic para deixar o fundo da área de trabalho aparecer. Inclui opções para reduzir transparência e desligar reflexos em movimento, respeitando a acessibilidade do sistema. O acabamento é inspirado no Liquid Glass; o material e a refração nativos da Apple não são reproduzidos de forma idêntica.",
-  "pub_date": "2026-11-13T06:55:51.431Z",
+  "version": "1.7.1",
+  "notes": "Correção do Liquid Glass da versão 1.7.0: substitui o backdrop retangular por um renderizador nativo com Direct2D/DirectComposition, aplica o desfoque ao conteúdo atrás do painel e adiciona controle de refração nas bordas. Corrige a moldura e alinha o recorte dos cantos. Os acabamentos Cristal, Equilibrado e Fumê passam a controlar o novo material. Se o renderizador não estiver disponível, o aplicativo informa o uso de blur nativo sem refração. O blur e a remoção da moldura foram conferidos em uma instância nativa; a comparação visual completa da refração não foi concluída. O resultado não é uma reprodução idêntica do material do macOS.",
+  "pub_date": "2026-11-13T07:51:04.695Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbi9iVkRHUWZPSTRaZ0RNNnR6T1RwSmlIVWhmUUNqQ2dRQVRaWEVDYVM3N0V0RVhtZFB1bXVaYnZXbmx1VnFDK0lYcVVPUnZoYURTNVdsT0pmeWk5V1NKVFNUYzdheUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTUyOTUwCWZpbGU6QWxnZUNvcHkgUHJvXzEuNy4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjcuMApPQm9ncTAyR3Q5WjMwZHNNdVlwR2FZc0x3ZUFrV1BSTnFLaGRLVXllOXlOZ3VwUEp5VkppeFpMYmlFN3VITlptWlA2b2FJQmtITG1DZmU2MzRtSjNBZz09Cg==",
-      "url": "https://github.com/rodrigoalgeri/AlgeCopyPro-releases/releases/download/v1.7.0/AlgeCopyPro-1.7.0-Windows-x64-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbi9iVkRHUWZPSTdCcjhCbmZNMXZXWURDS21mYnZmUWVjbGlpMlhFbytUeHFreWpVRzB3blF6ZDZpdnY1Ui9EOXBJTEQyaXRFSVpnMllSR1cyRHFGZE5NNlg4WEpaVFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTU2MjY0CWZpbGU6QWxnZUNvcHkgUHJvXzEuNy4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjcuMQpxOW9NN29ybTZKdmJsbzVYL3htdFM2RlRmSHk0d0xtRDVDV3JvOTAyVXdKam1KbTdHMVBOUDZmQkhQbzZOK1l0Y2dSUTNiVUVTdC8xeG1heXFlSytDZz09Cg==",
+      "url": "https://github.com/rodrigoalgeri/AlgeCopyPro-releases/releases/download/v1.7.1/AlgeCopyPro-1.7.1-Windows-x64-Setup.exe"
     }
   }
 }
