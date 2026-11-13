@@ -1,11 +1,11 @@
 {
-  "version": "1.7.1",
-  "notes": "Correção do Liquid Glass da versão 1.7.0: substitui o backdrop retangular por um renderizador nativo com Direct2D/DirectComposition, aplica o desfoque ao conteúdo atrás do painel e adiciona controle de refração nas bordas. Corrige a moldura e alinha o recorte dos cantos. Os acabamentos Cristal, Equilibrado e Fumê passam a controlar o novo material. Se o renderizador não estiver disponível, o aplicativo informa o uso de blur nativo sem refração. O blur e a remoção da moldura foram conferidos em uma instância nativa; a comparação visual completa da refração não foi concluída. O resultado não é uma reprodução idêntica do material do macOS.",
-  "pub_date": "2026-11-13T07:51:04.695Z",
+  "version": "1.8.0",
+  "notes": "Reformulação visual do Liquid Glass com referência na Central de Controle do iPhone: painel fumê, textos e ícones brancos em todos os modos, navegação com controles circulares e cartões com cantos mais arredondados. Ajusta a luminosidade do fundo no renderizador nativo para preservar a leitura sobre janelas claras. Transparência, desfoque, refração, saturação e reflexos continuam configuráveis ao vivo, com os acabamentos Cristal, Equilibrado e Fumê. A tela de ajustes passa a usar o próprio painel como prévia. Os outros temas mantêm suas cores. É uma implementação para Windows inspirada nas referências visuais da Apple.",
+  "pub_date": "2026-11-13T08:34:34.417Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbi9iVkRHUWZPSTdCcjhCbmZNMXZXWURDS21mYnZmUWVjbGlpMlhFbytUeHFreWpVRzB3blF6ZDZpdnY1Ui9EOXBJTEQyaXRFSVpnMllSR1cyRHFGZE5NNlg4WEpaVFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTU2MjY0CWZpbGU6QWxnZUNvcHkgUHJvXzEuNy4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjcuMQpxOW9NN29ybTZKdmJsbzVYL3htdFM2RlRmSHk0d0xtRDVDV3JvOTAyVXdKam1KbTdHMVBOUDZmQkhQbzZOK1l0Y2dSUTNiVUVTdC8xeG1heXFlSytDZz09Cg==",
-      "url": "https://github.com/rodrigoalgeri/AlgeCopyPro-releases/releases/download/v1.7.1/AlgeCopyPro-1.7.1-Windows-x64-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbi9iVkRHUWZPSTZ3Q2RkcjVzcnZUMFduTWdjL2hvNXVHOUFuK0xEMUhwL1p6TlB3RnlDR1FBZmFOTDgvSUozTWg0anhNNTB4Qmh2MG1qZWdLTUpoTk9wWjlPQVdNa2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTU4ODczCWZpbGU6QWxnZUNvcHkgUHJvXzEuOC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjguMApjaW1wYlBzK1FqdGFOVFV3S1BNdEZZMS82cDZlTDJDSk5mMk9pdTJYcVArcjhGSko3enF6WkFMSmcyQlZxL2lsMHpwUjVjTjRaVjIyaXlDbW4zRW5Bdz09Cg==",
+      "url": "https://github.com/rodrigoalgeri/AlgeCopyPro-releases/releases/download/v1.8.0/AlgeCopyPro-1.8.0-Windows-x64-Setup.exe"
     }
   }
 }
