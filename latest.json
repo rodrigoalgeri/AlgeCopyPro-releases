@@ -1,11 +1,11 @@
 {
-  "version": "1.6.0",
-  "notes": "Colar em sequência ficou mais rápido: depois de iniciar a fila, posicione o cursor no destino e pressione e solte Ctrl + Alt + Shift + V para colar o próximo item, sem reabrir o painel. Um indicador discreto mostra a posição na fila e uma prévia do próximo conteúdo, sem tirar o foco do programa de destino. O atalho fica ativo somente durante a sequência e é liberado ao terminar, cancelar ou editar a fila. Se a combinação já estiver ocupada, o botão Colar próximo continua disponível. Falhas mantêm o item na fila para tentar novamente.",
-  "pub_date": "2026-10-18T05:46:05.116Z",
+  "version": "1.7.0",
+  "notes": "Novo tema Liquid Glass em Configurações > Aparência, com acabamentos Cristal, Equilibrado e Fumê. Personalize transparência, desfoque das superfícies, saturação e reflexos, com prévia ao vivo e salvamento automático. O tema acompanha os modos claro, escuro e sistema e sincroniza o painel principal com a janela flutuante. Nas versões compatíveis do Windows, usa o material Acrylic para deixar o fundo da área de trabalho aparecer. Inclui opções para reduzir transparência e desligar reflexos em movimento, respeitando a acessibilidade do sistema. O acabamento é inspirado no Liquid Glass; o material e a refração nativos da Apple não são reproduzidos de forma idêntica.",
+  "pub_date": "2026-11-13T06:55:51.431Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbi9iVkRHUWZPSXl2ZGNUVjY2cWJyS0xZQlFrdU5VQ2k4QVZMQ092WDcwTmJiQURzSkQxbVE5WmpOdmh1WGI2SmVtUWhpcU9mVWN5Uy8wakJkOC9Ud01WSERpck9TUndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzAyMzYzCWZpbGU6QWxnZUNvcHkgUHJvXzEuNi4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjYuMApoYzJVNmMxeTVtdWpjem15djcwbkJWK2V0YjBQcnFtMTkrZGwrNEFZbVRaZ2JwNlJTZmpVcllIWkRlSjJqeU1NUjFuWkdWTTliU3JKUWJpSjgwdnlDZz09Cg==",
-      "url": "https://github.com/rodrigoalgeri/AlgeCopyPro-releases/releases/download/v1.6.0/AlgeCopyPro-1.6.0-Windows-x64-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbi9iVkRHUWZPSTRaZ0RNNnR6T1RwSmlIVWhmUUNqQ2dRQVRaWEVDYVM3N0V0RVhtZFB1bXVaYnZXbmx1VnFDK0lYcVVPUnZoYURTNVdsT0pmeWk5V1NKVFNUYzdheUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTUyOTUwCWZpbGU6QWxnZUNvcHkgUHJvXzEuNy4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjcuMApPQm9ncTAyR3Q5WjMwZHNNdVlwR2FZc0x3ZUFrV1BSTnFLaGRLVXllOXlOZ3VwUEp5VkppeFpMYmlFN3VITlptWlA2b2FJQmtITG1DZmU2MzRtSjNBZz09Cg==",
+      "url": "https://github.com/rodrigoalgeri/AlgeCopyPro-releases/releases/download/v1.7.0/AlgeCopyPro-1.7.0-Windows-x64-Setup.exe"
     }
   }
 }
