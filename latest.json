@@ -1,11 +1,11 @@
 {
-  "version": "1.9.0",
-  "notes": "O Liquid Glass passa a preservar as cores e a luminosidade do conteúdo atrás da janela. O acabamento usa vidro neutro, reflexos nas bordas e textos e ícones brancos com sombra local. A refração agora acompanha também os cartões e controles visíveis, inclusive durante a rolagem. Os ajustes de transparência, desfoque, refração, saturação e reflexos continuam ao vivo. Inclui os acabamentos Cristal, Equilibrado e Fosco. O material foi conferido no aplicativo nativo sobre fundos colorido e claro, com comparação da refração ligada e desligada.",
-  "pub_date": "2026-11-13T10:48:22.187Z",
+  "version": "1.10.0",
+  "notes": "Novo motor Liquid Glass em WebGL2/GLSL, integrado ao Rust/Tauri e à captura nativa do Windows. Refração nas bordas arredondadas, blur adaptativo, dispersão cromática sutil e iluminação com movimento de mola. Modos claro e escuro, ajustes ao vivo e fallback nativo quando a GPU ou a captura não estão disponíveis. A abertura espera o primeiro quadro válido e o renderizador suspende trabalho quando o painel está fechado. A lógica do histórico e da área de transferência foi preservada.",
+  "pub_date": "2026-11-14T07:00:39.896Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbi9iVkRHUWZPSTcrQ1EvVFJ3dkt2RFFOWDU3MjkyYVUvWWNvTlhCVGFOS1lGMnVyTEhZdEV1dDNPa3NoaWhzdHZLM0hlVitrRlovWWh2TStiN2RRcEJzMEFjMWpPQ1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTY2OTAxCWZpbGU6QWxnZUNvcHkgUHJvXzEuOS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjkuMAp5NFNJb1J5ZEk0ekN2YkY3clloQ1VRckVqSC85Qllia0xzUm9mNWtpZTAyZUlLenFMVzgrWmlOK1UxeFBOY3YwaTdhZGR1ZHNweVhUSWpSSmVVUnlDUT09Cg==",
-      "url": "https://github.com/rodrigoalgeri/AlgeCopyPro-releases/releases/download/v1.9.0/AlgeCopyPro-1.9.0-Windows-x64-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbi9iVkRHUWZPSTFiSHpuWjhIOTB0eHNKUHptL1pBaXRzd3MveUhzeFZFbTRjOGRodHBLTW9aRmlNQTFFYW4rWGJleVpFL2sxUmVacWgvdXlvdm5jOWJBZVRobXFoNmd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjM5NjM5CWZpbGU6QWxnZUNvcHkgUHJvXzEuMTAuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4xMC4wCmI5TjYrYVltWXV1eFIyNG82N0MrOFFPM1Z2S2x4dzdFbXo4a1pVVFJMckx6QkZvczV3bUdhZmhHdEx4aWxuWkhQdGM3NVBpSDM3YytjdE5JOE9yVUJ3PT0K",
+      "url": "https://github.com/rodrigoalgeri/AlgeCopyPro-releases/releases/download/v1.10.0/AlgeCopyPro-1.10.0-Windows-x64-Setup.exe"
     }
   }
 }
