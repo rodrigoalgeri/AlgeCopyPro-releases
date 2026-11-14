@@ -1,11 +1,11 @@
 {
-  "version": "1.8.0",
-  "notes": "Reformulação visual do Liquid Glass com referência na Central de Controle do iPhone: painel fumê, textos e ícones brancos em todos os modos, navegação com controles circulares e cartões com cantos mais arredondados. Ajusta a luminosidade do fundo no renderizador nativo para preservar a leitura sobre janelas claras. Transparência, desfoque, refração, saturação e reflexos continuam configuráveis ao vivo, com os acabamentos Cristal, Equilibrado e Fumê. A tela de ajustes passa a usar o próprio painel como prévia. Os outros temas mantêm suas cores. É uma implementação para Windows inspirada nas referências visuais da Apple.",
-  "pub_date": "2026-11-13T08:34:34.417Z",
+  "version": "1.9.0",
+  "notes": "O Liquid Glass passa a preservar as cores e a luminosidade do conteúdo atrás da janela. O acabamento usa vidro neutro, reflexos nas bordas e textos e ícones brancos com sombra local. A refração agora acompanha também os cartões e controles visíveis, inclusive durante a rolagem. Os ajustes de transparência, desfoque, refração, saturação e reflexos continuam ao vivo. Inclui os acabamentos Cristal, Equilibrado e Fosco. O material foi conferido no aplicativo nativo sobre fundos colorido e claro, com comparação da refração ligada e desligada.",
+  "pub_date": "2026-11-13T10:48:22.187Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbi9iVkRHUWZPSTZ3Q2RkcjVzcnZUMFduTWdjL2hvNXVHOUFuK0xEMUhwL1p6TlB3RnlDR1FBZmFOTDgvSUozTWg0anhNNTB4Qmh2MG1qZWdLTUpoTk9wWjlPQVdNa2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTU4ODczCWZpbGU6QWxnZUNvcHkgUHJvXzEuOC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjguMApjaW1wYlBzK1FqdGFOVFV3S1BNdEZZMS82cDZlTDJDSk5mMk9pdTJYcVArcjhGSko3enF6WkFMSmcyQlZxL2lsMHpwUjVjTjRaVjIyaXlDbW4zRW5Bdz09Cg==",
-      "url": "https://github.com/rodrigoalgeri/AlgeCopyPro-releases/releases/download/v1.8.0/AlgeCopyPro-1.8.0-Windows-x64-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbi9iVkRHUWZPSTcrQ1EvVFJ3dkt2RFFOWDU3MjkyYVUvWWNvTlhCVGFOS1lGMnVyTEhZdEV1dDNPa3NoaWhzdHZLM0hlVitrRlovWWh2TStiN2RRcEJzMEFjMWpPQ1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTY2OTAxCWZpbGU6QWxnZUNvcHkgUHJvXzEuOS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjkuMAp5NFNJb1J5ZEk0ekN2YkY3clloQ1VRckVqSC85Qllia0xzUm9mNWtpZTAyZUlLenFMVzgrWmlOK1UxeFBOY3YwaTdhZGR1ZHNweVhUSWpSSmVVUnlDUT09Cg==",
+      "url": "https://github.com/rodrigoalgeri/AlgeCopyPro-releases/releases/download/v1.9.0/AlgeCopyPro-1.9.0-Windows-x64-Setup.exe"
     }
   }
 }
